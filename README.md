@@ -12,6 +12,8 @@
 - 📄 Know about my experiences [Currently a Fresher Exploring techs.](Currently a Fresher Exploring techs.)
 
 - ⚡ Fun fact **If I want to achieve then I will it doesn't matter how difficult it is.**
+- ⚡ Fun fact **Success is a journey not a destination.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
