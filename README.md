@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Raj.</h1>
-<h3 align="center">A passionate CSE developer Exploring new technologies.</h3>
+<h3 align="center">A passionate CSE Student Exploring new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaraj3136&label=Profile%20views&color=0e75b6&style=flat" alt="adityaraj3136" /> </p>
 
