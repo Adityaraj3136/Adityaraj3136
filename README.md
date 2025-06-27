@@ -51,7 +51,3 @@ _"Do not Fear Going Forward Slowly Fear Only to Stand Still"_
 </p>
 
 ---
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraj3136&show_icons=true&theme=default&locale=en" alt="adityaraj3136" />
-</p>
