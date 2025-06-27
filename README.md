@@ -18,7 +18,7 @@ Networking, Cybersecurity, Web Development, and Cloud Fundamentals.
 
 📫 **Reach me at:**  
 info.adityaraj3136@gmail.com  
-or via my [Portfolio Website](https://adityaraj3136.github.io/adityatechlab/)
+or via my [Portfolio Website](https://adityaraj3136.github.io/adityatechlab/#contact)
 
 📄 **About me:**  
 I’m a curious and selfpaced learner, currently a fresher exploring different technologies to find my core strength in the IT world.
