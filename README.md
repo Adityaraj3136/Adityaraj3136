@@ -363,8 +363,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Adityaraj3136/Adityaraj3136/output/github-snake.svg" width="100%" />
 </picture>
 
-> 💡 *Set up the snake with [this GitHub Action workflow](#-snake-setup-instructions) — takes 2 minutes!*
-
 </div>
 
 ---
@@ -539,47 +537,7 @@ PID   USER        COMMAND                                      STATUS
                                    — Aditya Raj
 ```
 
----
 
-<details>
-<summary>🐍 <b>Snake Setup Instructions</b> (click to expand)</summary>
-<br/>
-
-To enable the contribution snake animation, create this file in your profile repo:
-
-📄 `.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Adityaraj3136
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions** tab → **Generate Snake** → **Run workflow**. Done! 🎉
-
-</details>
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00d4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
