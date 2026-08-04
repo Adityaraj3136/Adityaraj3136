@@ -1,4 +1,8 @@
 
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║          ADITYA RAJ — GitHub Profile README                     ║ -->
+<!-- ║          Paste this into: Adityaraj3136/Adityaraj3136/README.md ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
@@ -355,9 +359,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 <div align="center">
 
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Adityaraj3136&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj3136&layout=compact&langs_count=8&theme=tokyonight"/>
-
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adityaraj3136&theme=tokyonight)](https://git.io/streak-stats)
@@ -366,13 +367,13 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 ---
 
-<!-- ═══════════════════ 3D CONTRIBUTION GRAPH ═══════════════════ -->
+<!-- ═══════════════════ ISOMETRIC METRICS GRAPH ═══════════════════ -->
 
-## 🏙️ &nbsp;`> ./generate_3d_city.sh`
+## 🧊 &nbsp;`> cat metrics.isocalendar`
 
 <div align="center">
 
-<img alt="3D GitHub Contribution Graph" src="https://raw.githubusercontent.com/Adityaraj3136/Adityaraj3136/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
+<img alt="Isometric Contribution Calendar" src="https://raw.githubusercontent.com/Adityaraj3136/Adityaraj3136/main/metrics.plugin.isocalendar.svg" width="100%" />
 
 </div>
 
