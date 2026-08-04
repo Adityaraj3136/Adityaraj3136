@@ -39,7 +39,6 @@
 ║  │  > ROLE     : Network Engineer | Full-Stack Developer          │ ║
 ║  │  > LOCATION : India (Full-Time) | Remote Worldwide             │ ║
 ║  │  > STATUS   : Open to Opportunities                            │ ║
-║  │  > UPTIME   : Since 2024 -- No Downtime                       │ ║
 ║  │                                                                │ ║
 ║  └────────────────────────────────────────────────────────────────┘ ║
 ║                                                                      ║
@@ -60,7 +59,6 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Adityaraj3136&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Adityaraj3136?style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 </div>
 
@@ -75,7 +73,6 @@ Name        : Aditya Raj
 Role        : Full-Stack Developer | Network & Security Engineer
 Domain      : Computer Networks - Full-Stack - AI - Security
 Status      : Open to Opportunities
-Location    : Bhagalpur, Bihar, India (Full-Time)
 Remote      : Available Worldwide
 Education   : B.Tech CSE -- AKTU
 Focus       : Building SaaS Products & Network Infrastructure
@@ -309,7 +306,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 - ⚡ Blazing-fast static site with smooth scroll animations
 - 🎨 Premium dark-mode UI with glassmorphism & gradients
 - 🗂️ Filterable project showcase with category tabs
-- 📊 Live GitHub stats & contribution graph integration
 - 📬 Working contact form with email validation
 - 📱 Fully responsive (mobile-first design)
 - 🔍 SEO optimized with Open Graph meta tags
@@ -319,8 +315,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 - Intersection Observer API for scroll-triggered animations
 - CSS custom properties for theme consistency
 - Lazy loading images for performance optimization
-- Accessible markup with ARIA labels
-- Lighthouse score: 95+ Performance
 
 **🛠 Stack:** `HTML5` `CSS3` `Vanilla JS` `GitHub Pages`
 
@@ -456,7 +450,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
   |  Email     :  adityaraj3136@gmail.com                     |
   |  LinkedIn  :  linkedin.com/in/adityaraj3136               |
   |  GitHub    :  github.com/Adityaraj3136                    |
-  |  Web App   :  adityaraj3136.app (ExpenseFlow AI)          |
   |  Portfolio :  adityaraj3136.github.io/adityatechlab       |
   |                                                           |
   |  Response  :  less than 24 hours                          |
@@ -471,7 +464,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityaraj3136)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaraj3136@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://adityaraj3136.github.io/adityatechlab/)
-[![ExpenseFlow](https://img.shields.io/badge/ExpenseFlow_AI-ff6b35?style=for-the-badge&logo=vercel&logoColor=white)](https://adityaraj3136.app/)
 
 </div>
 
