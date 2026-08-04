@@ -312,20 +312,17 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 **✨ Features:**
 - ⚡ Blazing-fast static site with smooth scroll animations
-- 🎨 Premium dark-mode UI with glassmorphism & gradients
 - 🗂️ Filterable project showcase with category tabs
 - 📊 Live GitHub stats & contribution graph integration
 - 📬 Working contact form with email validation
 - 📱 Fully responsive (mobile-first design)
 - 🔍 SEO optimized with Open Graph meta tags
-- 🌐 Custom domain ready & GitHub Pages deployed
 
 **🛠 Technical Highlights:**
 - Intersection Observer API for scroll-triggered animations
 - CSS custom properties for theme consistency
 - Lazy loading images for performance optimization
 - Accessible markup with ARIA labels
-- Lighthouse score: 95+ Performance
 
 **🛠 Stack:** `HTML5` `CSS3` `Vanilla JS` `GitHub Pages`
 
@@ -358,9 +355,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 ## > curl api.github.com/users/Adityaraj3136/stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityaraj3136&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj3136&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <br/>
 
