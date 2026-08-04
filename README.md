@@ -354,11 +354,11 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 <div align="center">
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/adityaraj3136">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaraj3136&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
-</p>
+</p> -->
 
 <br/>
 
