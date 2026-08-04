@@ -1,9 +1,4 @@
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║          ADITYA RAJ — GitHub Profile README                     ║ -->
-<!-- ║          Paste this into: Adityaraj3136/Adityaraj3136/README.md ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
 <!-- ═══════════════════ ANIMATED HEADER BANNER ═══════════════════ -->
@@ -359,6 +354,12 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 <div align="center">
 
+<p align="center">
+  <a href="https://github.com/adityaraj3136">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityaraj3136&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Adityaraj3136&theme=tokyonight)](https://git.io/streak-stats)
@@ -367,15 +368,7 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 ---
 
-<!-- ═══════════════════ ISOMETRIC METRICS GRAPH ═══════════════════ -->
 
-## 🧊 &nbsp;`> cat metrics.isocalendar`
-
-<div align="center">
-
-<img alt="Isometric Contribution Calendar" src="https://raw.githubusercontent.com/Adityaraj3136/Adityaraj3136/main/metrics.plugin.isocalendar.svg" width="100%" />
-
-</div>
 
 ---
 
@@ -384,13 +377,7 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 ## 📈 &nbsp;`> git log --graph --all --decorate`
 
 <div align="center">
-<br>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaraj3136" alt="adityaraj3136" /></a> </p>
-<br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityaraj3136&show_icons=true&locale=en" alt="adityaraj3136" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaraj3136&" alt="adityaraj3136" /></p>
-<br>
 [![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityaraj3136&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=203a43&hide_border=false&border_color=00d4ff&custom_title=Aditya%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
@@ -453,86 +440,8 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 ---
 
-<!-- ═══════════════════ DEVELOPER METRICS ═════════════════ -->
 
-## SYSTEM METRICS
 
-```
-+=====================================================================+
-|                     DEVELOPER METRICS DASHBOARD                     |
-+=====================================================================+
-|                                                                     |
-|   PROJECTS SHIPPED          LINES OF CODE          TECH USED        |
-|   +---------------+         +---------------+      +-----------+    |
-|   |               |         |               |      |           |    |
-|   |    10+        |         |   15,000+     |      |   30+     |    |
-|   |   Production  |         |   Across all  |      | Languages |    |
-|   |    Apps       |         |   projects    |      | & Tools   |    |
-|   +---------------+         +---------------+      +-----------+    |
-|                                                                     |
-+---------------------------------------------------------------------+
-|   HIGHLIGHT REEL                                                    |
-+---------------------------------------------------------------------+
-|   [*] PG Sathi v3.0 ............ 11,600+ LOC | 5 user roles        |
-|   [*] ExpenseFlow AI ........... AI-powered finance | PWA           |
-|   [*] NotesHub ................. 3 years of AKTU notes + AI bot     |
-|   [*] AdiTechLab ............... Portfolio with live GitHub stats    |
-|   [*] NSM Simulator ............ 3D network security visualization  |
-|   [*] Chrome ABE Decryptor ..... Security research tool             |
-+---------------------------------------------------------------------+
-|   STATUS: All systems green. Building the future, one commit        |
-|           at a time.                                                |
-+=====================================================================+
-```
-
----
-
-<!-- ═══════════════════ WHAT I'M DOING NOW ════════════════ -->
-
-## ⚡ &nbsp;`> ps aux | grep current_focus`
-
-```bash
-PID   USER        COMMAND                                       STATUS
-001   adityaraj   ./build --project "PG-Sathi v3.1"             [RUNNING]
-          +-- Adding analytics dashboard + mobile app wrapper
-002   adityaraj   ./build --project "NotesHub"                  [RUNNING]
-          +-- Expanding to 4th year subjects + PYQ bank
-003   adityaraj   ./build --project "ExpenseFlow-AI"            [RUNNING]
-          +-- Adding UPI screenshot OCR + Budget AI advisor
-004   adityaraj   ./study --topic "CCNA Certification"          [RUNNING]
-005   adityaraj   ./learn --topic "Cloud Networking AWS"        [RUNNING]
-006   adityaraj   ./research "Network Automation + AI"          [RUNNING]
-007   adityaraj   ./apply --roles "Network Eng, Full-Stack"     [ACTIVE]
-```
-
----
-
-<!-- ═══════════════════ FUN FACTS ════════════════════════ -->
-
-## 💡 &nbsp;`> fortune | cowsay`
-
-```
-  ___________________________________________________________
- /                                                           \
-|  I think in OSI layers -- when life gets complex,           |
-|  I debug it layer by layer.                                 |
-|                                                             |
-|  A network without security is like a house                 |
-|  without a door -- open to everything.                      |
-|                                                             |
-|  I automate anything I do more than twice.                  |
-|                                                             |
-|  Currently routing my career toward the intersection        |
-|  of Networking + Web + Security.                            |
- \_____________________________________________________________/
-         \   ^__^
-          \  (oo)\_______
-             (__)\       )\/\
-                 ||----w |
-                 ||     ||
-```
-
----
 
 <!-- ═══════════════════ CONNECT SECTION ════════════════════ -->
 
