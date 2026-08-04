@@ -18,7 +18,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  BIOS v3.1.36 — AdityaRaj Systems Inc.         [OK] All Tests Pass ║
+║  BIOS v3.1.36 -- AdityaRaj Systems Inc.         [OK] All Tests Pass ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║      █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗                     ║
@@ -32,19 +32,19 @@
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  ┌─ SYSTEM BOOT LOG ──────────────────────────────────────────────┐ ║
 ║  │                                                                │ ║
-║  │  [■■■■■■■■■■] CPU .......... Networking Brain v2.0     ✅ OK  │ ║
-║  │  [■■■■■■■■■■] RAM .......... 10+ Projects Loaded       ✅ OK  │ ║
-║  │  [■■■■■■■■■■] NET .......... TCP/IP Stack Active        ✅ OK  │ ║
-║  │  [■■■■■■■■■■] WEB .......... Full-Stack Engine Ready    ✅ OK  │ ║
-║  │  [■■■■■■■■■■] SEC .......... Firewall & IDS Online      ✅ OK  │ ║
-║  │  [■■■■■■■■■■] AI  .......... Gemini Co-Processor        ✅ OK  │ ║
-║  │  [■■■■■■■■■■] GPU .......... UI/UX Renderer Active      ✅ OK  │ ║
-║  │  [■■■■■■■■■■] SSD .......... Supabase + PostgreSQL      ✅ OK  │ ║
+║  │  [>>>>>>>>>>] CPU .......... Networking Brain v2.0      [OK]   │ ║
+║  │  [>>>>>>>>>>] RAM .......... 10+ Projects Loaded        [OK]   │ ║
+║  │  [>>>>>>>>>>] NET .......... TCP/IP Stack Active         [OK]   │ ║
+║  │  [>>>>>>>>>>] WEB .......... Full-Stack Engine Ready     [OK]   │ ║
+║  │  [>>>>>>>>>>] SEC .......... Firewall & IDS Online       [OK]   │ ║
+║  │  [>>>>>>>>>>] AI  .......... Gemini Co-Processor         [OK]   │ ║
+║  │  [>>>>>>>>>>] GPU .......... UI/UX Renderer Active       [OK]   │ ║
+║  │  [>>>>>>>>>>] SSD .......... Supabase + PostgreSQL       [OK]   │ ║
 ║  │                                                                │ ║
 ║  │  > ROLE     : Network Engineer | Full-Stack Developer          │ ║
-║  │  > LOCATION : India 🇮🇳 (Full-Time) | 🌍 Remote Worldwide       │ ║
-║  │  > STATUS   : 🟢 Open to Opportunities                         │ ║
-║  │  > UPTIME   : Since 2024 — No Downtime                        │ ║
+║  │  > LOCATION : India (Full-Time) | Remote Worldwide             │ ║
+║  │  > STATUS   : Open to Opportunities                            │ ║
+║  │  > UPTIME   : Since 2024 -- No Downtime                       │ ║
 ║  │                                                                │ ║
 ║  └────────────────────────────────────────────────────────────────┘ ║
 ║                                                                      ║
@@ -76,24 +76,19 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;`> cat about_me.txt`
 
 ```yaml
-╔══════════════════════════════════════════════════════════════════╗
-║                      ADITYA RAJ — PROFILE                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Name        : Aditya Raj                                        ║
-║  Role        : Full-Stack Developer | Network & Security Eng.    ║
-║  Domain      : Computer Networks · Full-Stack · AI · Security    ║
-║  Status      : 🟢 Open to Opportunities                          ║
-║  Location    : Bhagalpur, Bihar, India 🇮🇳 (Full-Time)             ║
-║  Remote      : 🌍 Available Worldwide                             ║
-║  Education   : B.Tech CSE — AKTU                                 ║
-║  Focus       : Building SaaS Products & Network Infrastructure   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🎯 Mission  : Bridging network infrastructure with modern       ║
-║               web technologies & AI                              ║
-║  💡 Built    : 4 production SaaS apps (11,600+ LOC flagship)     ║
-║  🚀 Shipped  : PG Sathi · ExpenseFlow AI · NotesHub · 7+ more   ║
-║  📚 Learning : CCNA · Cloud (AWS) · DevOps · React Advanced     ║
-╚══════════════════════════════════════════════════════════════════╝
+Name        : Aditya Raj
+Role        : Full-Stack Developer | Network & Security Engineer
+Domain      : Computer Networks - Full-Stack - AI - Security
+Status      : Open to Opportunities
+Location    : Bhagalpur, Bihar, India (Full-Time)
+Remote      : Available Worldwide
+Education   : B.Tech CSE -- AKTU
+Focus       : Building SaaS Products & Network Infrastructure
+
+Mission     : Bridging network infrastructure with modern web tech & AI
+Built       : 4 production SaaS apps (11,600+ LOC flagship)
+Shipped     : PG Sathi - ExpenseFlow AI - NotesHub - 7+ more
+Learning    : CCNA - Cloud (AWS) - DevOps - React Advanced
 ```
 
 > 🌐 *"I don't just connect devices — I architect the invisible highways data travels on, and build the apps that run on them."*
@@ -104,19 +99,28 @@
 
 ## 🌐 &nbsp;`> ping adityaraj.dev --verbose`
 
-```bash
-$ traceroute to Aditya Raj's brain
-  1  curiosity.local         [1ms]   ✓ Packet received
-  2  networking.protocols    [2ms]   ✓ TCP/IP handshake OK
-  3  webdev.fullstack        [3ms]   ✓ HTTP 200 OK
-  4  security.research       [4ms]   ✓ SSL/TLS verified
-  5  automation.scripts      [5ms]   ✓ Route optimized
-  6  github.Adityaraj3136    [6ms]   ✓ DESTINATION REACHED
-
-  Round Trip Time : 6ms
-  Packets Sent    : ∞
-  Packets Lost    : 0
-  Status          : FULLY OPERATIONAL ✅
+```
++======================================================================+
+|  NETWORK DIAGNOSTIC REPORT — adityaraj.dev                           |
++======================================================================+
+|                                                                      |
+|  $ traceroute to Aditya Raj's brain (128.0.0.1)                      |
+|                                                                      |
+|  HOP   HOST                        TIME     STATUS                   |
+|  ---   ----                        ----     ------                   |
+|   1    curiosity.local             1ms      PASS                     |
+|   2    networking.protocols        2ms      PASS                     |
+|   3    webdev.fullstack            3ms      PASS                     |
+|   4    security.research           4ms      PASS                     |
+|   5    ai.automation               5ms      PASS                     |
+|   6    github.Adityaraj3136        6ms      DESTINATION REACHED      |
+|                                                                      |
++----------------------------------------------------------------------+
+|  Round Trip Time  :  6ms          Jitter  :  0ms                     |
+|  Packets Sent     :  6           Packets Lost  :  0 (0% loss)        |
+|  Connection       :  STABLE      Protocol      :  TCP/IP v4          |
+|  Status           :  ALL SYSTEMS OPERATIONAL                         |
++======================================================================+
 ```
 
 ---
@@ -172,36 +176,43 @@ $ traceroute to Aditya Raj's brain
 ## 📡 &nbsp;`> netstat --skills --all`
 
 ```
-NETWORKING PROTOCOLS
-══════════════════════════════════════════════════════════
-  TCP/IP Stack     [██████████████████░░] 90%  EXPERT
-  Subnetting/VLSM  [████████████████░░░░] 80%  ADVANCED
-  Routing (OSPF)   [███████████████░░░░░] 75%  ADVANCED
-  Firewall / IDS   [██████████████░░░░░░] 70%  PROFICIENT
-  Network Security [██████████████░░░░░░] 70%  PROFICIENT
-  Wireshark        [█████████████████░░░] 85%  ADVANCED
-  NSM / SIEM       [████████████░░░░░░░░] 60%  LEARNING ↑
-
-WEB DEVELOPMENT
-══════════════════════════════════════════════════════════
-  HTML/CSS/JS      [████████████████████] 95%  EXPERT
-  JavaScript (ES6) [██████████████████░░] 90%  EXPERT
-  Node.js          [████████████████░░░░] 80%  ADVANCED
-  REST APIs        [███████████████░░░░░] 75%  ADVANCED
-  React / Three.js [████████████░░░░░░░░] 60%  GROWING ↑
-  Web Automation   [████████████████░░░░] 80%  ADVANCED
-
-FULL-STACK, AI & BACKEND SERVICES
-══════════════════════════════════════════════════════════
-  Next.js 16       [████████████████░░░░] 80%  ADVANCED
-  Supabase (BaaS)  [████████████████████] 90%  EXPERT
-  Prisma ORM       [███████████████░░░░░] 75%  ADVANCED
-  PostgreSQL       [███████████████░░░░░] 75%  ADVANCED
-  Google Gemini AI [████████████████░░░░] 80%  ADVANCED
-  PWA Development  [████████████████░░░░] 80%  ADVANCED
-  Razorpay / UPI   [███████████████░░░░░] 75%  ADVANCED
-  Leaflet.js Maps  [███████████████░░░░░] 75%  ADVANCED
-  Framer Motion    [███████████░░░░░░░░░] 55%  GROWING ↑
++======================================================================+
+|                        SKILL PROFICIENCY MAP                         |
+|           "Always learning, never done." -- growth mindset           |
++======================================================================+
+|                                                                      |
+|  NETWORKING & INFRASTRUCTURE                                         |
+|  ----------------------------------------------------------------    |
+|  TCP/IP Stack      [==================--]   Comfortable              |
+|  Wireshark         [=================---]   Comfortable              |
+|  Subnetting/VLSM   [================----]   Intermediate             |
+|  Routing (OSPF)    [===============-----]   Intermediate             |
+|  Firewall / IDS    [==============------]   Familiar                 |
+|  Network Security  [==============------]   Familiar                 |
+|  NSM / SIEM        [============--------]   Exploring                |
+|                                                                      |
+|  WEB DEVELOPMENT                                                     |
+|  ----------------------------------------------------------------    |
+|  HTML / CSS / JS   [====================]   Comfortable              |
+|  JavaScript (ES6)  [==================--]   Comfortable              |
+|  Node.js           [================----]   Intermediate             |
+|  Web Automation    [================----]   Intermediate             |
+|  REST APIs         [===============-----]   Intermediate             |
+|  React / Three.js  [============--------]   Exploring                |
+|                                                                      |
+|  FULL-STACK, AI & BACKEND                                            |
+|  ----------------------------------------------------------------    |
+|  Supabase (BaaS)   [==================--]   Comfortable              |
+|  Next.js 16        [================----]   Intermediate             |
+|  Google Gemini AI  [================----]   Intermediate             |
+|  PWA Development   [================----]   Intermediate             |
+|  Prisma ORM        [===============-----]   Intermediate             |
+|  PostgreSQL        [===============-----]   Familiar                 |
+|  Razorpay / UPI    [===============-----]   Familiar                 |
+|  Leaflet.js Maps   [===============-----]   Familiar                 |
+|  Framer Motion     [====================]   Exploring                |
+|                                                                      |
++======================================================================+
 ```
 
 ---
@@ -297,16 +308,24 @@ Fully-featured **multilingual PG management & discovery SaaS** for Bihar's stude
 
 > *"Where my projects speak louder than words"*
 
-Personal **developer portfolio** showcasing all projects, skills, and experience in an interactive, visually stunning interface.
+Personal **developer portfolio** showcasing all projects, skills, and experience in an interactive, visually stunning interface. Built from scratch with zero frameworks — pure HTML/CSS/JS craftsmanship.
 
 **✨ Features:**
-- ⚡ Blazing-fast static site with smooth animations
-- 🎨 Premium dark-mode UI with glassmorphism
-- 🗂️ Filterable project showcase
-- 📊 Live GitHub stats integration
-- 📬 Working contact form
-- 📱 Fully responsive (mobile-first)
-- 🔍 SEO optimized with meta tags
+- ⚡ Blazing-fast static site with smooth scroll animations
+- 🎨 Premium dark-mode UI with glassmorphism & gradients
+- 🗂️ Filterable project showcase with category tabs
+- 📊 Live GitHub stats & contribution graph integration
+- 📬 Working contact form with email validation
+- 📱 Fully responsive (mobile-first design)
+- 🔍 SEO optimized with Open Graph meta tags
+- 🌐 Custom domain ready & GitHub Pages deployed
+
+**🛠 Technical Highlights:**
+- Intersection Observer API for scroll-triggered animations
+- CSS custom properties for theme consistency
+- Lazy loading images for performance optimization
+- Accessible markup with ARIA labels
+- Lighthouse score: 95+ Performance
 
 **🛠 Stack:** `HTML5` `CSS3` `Vanilla JS` `GitHub Pages`
 
@@ -322,13 +341,13 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 | 🔧 Project | 📋 Description | 🛠 Stack | 🔗 Live |
 |:----------:|:--------------:|:--------:|:-------:|
-| **[🌐 NSM Simulator](https://github.com/Adityaraj3136/nsm-simulator)** | Interactive 3D Network Security Monitoring simulator — firewall & IDS visualization | `JS` `Three.js` `Networking` | [▶ Demo](https://nsm-simulator.vercel.app/) |
-| **[⚡ NetAdmin Pro](https://github.com/Adityaraj3136/netadmin-pro)** | Professional network administration dashboard for monitoring & management | `JavaScript` `CSS` `Node.js` | [▶ Demo](https://adityaraj3136.github.io/netadmin-pro/) |
-| **[🔌 Electricity Recharge](https://github.com/Adityaraj3136/Electricity-Recharge)** | Smart electricity recharge automation system with modern UI | `JavaScript` `HTML` `CSS` | [▶ Demo](https://adityaraj3136.github.io/Electricity-Recharge/) |
-| **[🔐 Chrome ABE Decryptor](https://github.com/Adityaraj3136/Chrome-App-Bound-Encryption-Decryption)** | Security research: decrypt App-Bound Encrypted browser data — no admin rights needed | `Security` `Python` `Research` | [▶ Repo](https://github.com/Adityaraj3136/Chrome-App-Bound-Encryption-Decryption) |
-| **[🌿 Carbon Footprint Calc](https://github.com/Adityaraj3136/Vytoproject2)** | Interactive tool to calculate & visualize your carbon footprint with live charts | `JavaScript` `Chart.js` `HTML` | [▶ Demo](https://adityaraj3136.github.io/Vytoproject2/) |
-| **[🧘 Mental Wellness Journal](https://github.com/Adityaraj3136/vytoflowproject1)** | Mindful journaling web app for mental wellness tracking | `HTML` `CSS` `JavaScript` | [▶ Demo](https://adityaraj3136.github.io/vytoflowproject1/) |
-| **[🎵 Music Player](https://github.com/Adityaraj3136/music-player)** | Sleek browser-based music player with playlist management | `HTML` `CSS` `JavaScript` | [▶ Demo](https://adityaraj3136.github.io/music-player/) |
+| **[NSM Simulator](https://github.com/adityaraj3136/nsm-simulator)** | Interactive 3D Network Security Monitoring simulator | `JS` `Three.js` | [Demo](https://nsm-simulator.vercel.app/) |
+| **[NetAdmin Pro](https://github.com/adityaraj3136/netadmin-pro)** | Professional network administration dashboard | `JS` `Node.js` | [Demo](https://adityaraj3136.github.io/netadmin-pro/) |
+| **[Electricity Recharge](https://github.com/adityaraj3136/Electricity-Recharge)** | Smart electricity recharge automation | `JS` `HTML` | [Demo](https://adityaraj3136.github.io/Electricity-Recharge/) |
+| **[Chrome ABE Decryptor](https://github.com/adityaraj3136/Chrome-App-Bound-Encryption-Decryption)** | Security research: decrypt browser data | `Python` | [Repo](https://github.com/adityaraj3136/Chrome-App-Bound-Encryption-Decryption) |
+| **[Carbon Footprint Calc](https://github.com/adityaraj3136/Vytoproject2)** | Calculate & visualize carbon footprint | `JS` `Chart.js` | [Demo](https://adityaraj3136.github.io/Vytoproject2/) |
+| **[Mental Wellness Journal](https://github.com/adityaraj3136/vytoflowproject1)** | Mindful journaling web app | `HTML` `CSS` | [Demo](https://adityaraj3136.github.io/vytoflowproject1/) |
+| **[Music Player](https://github.com/adityaraj3136/music-player)** | Browser-based music player | `HTML` `CSS` | [Demo](https://adityaraj3136.github.io/music-player/) |
 
 </div>
 
@@ -336,16 +355,16 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 <!-- ═══════════════════ GITHUB STATS ════════════════════════ -->
 
-## 📊 &nbsp;`> curl api.github.com/users/Adityaraj3136/stats`
+## > curl api.github.com/users/Adityaraj3136/stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityaraj3136&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=a0e4ff&icon_color=00d4ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj3136&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=a0e4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adityaraj3136&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj3136&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Adityaraj3136&theme=tokyonight-duo&background=0d1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=a0e4ff&currStreakNum=ffffff&sideNums=ffffff&dates=a0e4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Adityaraj3136&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -353,7 +372,7 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 <!-- ═══════════════════ SNAKE CONTRIBUTION ═══════════════════ -->
 
-## 🐍 &nbsp;`> watch --live contribution_snake`
+## > watch --live contribution_snake
 
 <div align="center">
 
@@ -422,28 +441,50 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 ## 🎓 &nbsp;`> cat certifications.log`
 
 ```
-[2024] ✅  Computer Networks Fundamentals    ──── TCP/IP, OSI Model, Subnetting
-[2024] ✅  Network Security Monitoring       ──── NSM, IDS, Firewalls, Wireshark
-[2024] ✅  Web Development Bootcamp          ──── HTML, CSS, JS, Node, React
-[2025] ✅  Full-Stack SaaS Development       ──── Next.js, Supabase, PostgreSQL
-[2025] ✅  AI Integration & Prompt Eng.      ──── Google Gemini, OpenAI APIs
-[2026] 🔄  Cybersecurity Essentials          ──── In Progress ···
-[2026] 🔄  Cloud Networking (AWS/GCP)        ──── In Progress ···
-[2026] 🚧  CCNA Certification Prep           ──── Target Q4 2026
-[2026] 🎯  Full-Stack DevOps + Networking    ──── Next Goal
+[2024] [x] Computer Networks Fundamentals    ---- TCP/IP, OSI Model, Subnetting
+[2024] [x] Network Security Monitoring       ---- NSM, IDS, Firewalls, Wireshark
+[2024] [x] Web Development Bootcamp          ---- HTML, CSS, JS, Node, React
+[2025] [x] Full-Stack SaaS Development       ---- Next.js, Supabase, PostgreSQL
+[2025] [x] AI Integration & Prompt Eng.      ---- Google Gemini, OpenAI APIs
+[2026] [~] Cybersecurity Essentials          ---- In Progress ...
+[2026] [~] Cloud Networking (AWS/GCP)        ---- In Progress ...
+[2026] [!] CCNA Certification Prep           ---- Target Q4 2026
+[2026] [>] Full-Stack DevOps + Networking    ---- Next Goal
 ```
 
 ---
 
-<!-- ═══════════════════ TROPHY SHOWCASE ════════════════════ -->
+<!-- ═══════════════════ DEVELOPER METRICS ═════════════════ -->
 
-## 🏆 &nbsp;`> ./get_achievements.sh`
+## SYSTEM METRICS
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adityaraj3136&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+```
++=====================================================================+
+|                     DEVELOPER METRICS DASHBOARD                     |
++=====================================================================+
+|                                                                     |
+|   PROJECTS SHIPPED          LINES OF CODE          TECH USED        |
+|   +---------------+         +---------------+      +-----------+    |
+|   |               |         |               |      |           |    |
+|   |    10+        |         |   15,000+     |      |   30+     |    |
+|   |   Production  |         |   Across all  |      | Languages |    |
+|   |    Apps       |         |   projects    |      | & Tools   |    |
+|   +---------------+         +---------------+      +-----------+    |
+|                                                                     |
++---------------------------------------------------------------------+
+|   HIGHLIGHT REEL                                                    |
++---------------------------------------------------------------------+
+|   [*] PG Sathi v3.0 ............ 11,600+ LOC | 5 user roles        |
+|   [*] ExpenseFlow AI ........... AI-powered finance | PWA           |
+|   [*] NotesHub ................. 3 years of AKTU notes + AI bot     |
+|   [*] AdiTechLab ............... Portfolio with live GitHub stats    |
+|   [*] NSM Simulator ............ 3D network security visualization  |
+|   [*] Chrome ABE Decryptor ..... Security research tool             |
++---------------------------------------------------------------------+
+|   STATUS: All systems green. Building the future, one commit        |
+|           at a time.                                                |
++=====================================================================+
+```
 
 ---
 
@@ -452,17 +493,17 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 ## ⚡ &nbsp;`> ps aux | grep current_focus`
 
 ```bash
-PID   USER        COMMAND                                      STATUS
-001   adityaraj   ./build --project "PG-Sathi v3.1"             [RUNNING] 🔄
-          └─ Adding analytics dashboard + mobile app wrapper
-002   adityaraj   ./build --project "NotesHub"                  [RUNNING] 🔄
-          └─ Expanding to 4th year subjects + PYQ bank
-003   adityaraj   ./build --project "ExpenseFlow-AI"             [RUNNING] 🔄
-          └─ Adding UPI screenshot OCR + Budget AI advisor
-004   adityaraj   ./study --topic "CCNA Certification"           [RUNNING] 🔄
-005   adityaraj   ./learn --topic "Cloud Networking AWS"         [RUNNING] 🔄
-006   adityaraj   ./research "Network Automation + AI"           [RUNNING] 🔄
-007   adityaraj   ./apply --roles "Network Eng, Full-Stack Dev"  [RUNNING] 🟢
+PID   USER        COMMAND                                       STATUS
+001   adityaraj   ./build --project "PG-Sathi v3.1"             [RUNNING]
+          +-- Adding analytics dashboard + mobile app wrapper
+002   adityaraj   ./build --project "NotesHub"                  [RUNNING]
+          +-- Expanding to 4th year subjects + PYQ bank
+003   adityaraj   ./build --project "ExpenseFlow-AI"            [RUNNING]
+          +-- Adding UPI screenshot OCR + Budget AI advisor
+004   adityaraj   ./study --topic "CCNA Certification"          [RUNNING]
+005   adityaraj   ./learn --topic "Cloud Networking AWS"        [RUNNING]
+006   adityaraj   ./research "Network Automation + AI"          [RUNNING]
+007   adityaraj   ./apply --roles "Network Eng, Full-Stack"     [ACTIVE]
 ```
 
 ---
@@ -472,18 +513,19 @@ PID   USER        COMMAND                                      STATUS
 ## 💡 &nbsp;`> fortune | cowsay`
 
 ```
-  ┌──────────────────────────────────────────────────────────┐
-  │  🌐  I think in OSI layers — when life gets complex,     │
-  │      I debug it layer by layer.                          │
-  │                                                          │
-  │  🔐  A network without security is like a house          │
-  │      without a door — open to everything.                │
-  │                                                          │
-  │  ⚡  I automate anything I do more than twice.           │
-  │                                                          │
-  │  🎯  Currently routing my career toward the intersection │
-  │      of Networking + Web + Security.                     │
-  └──────────────────────────────────────────────────────────┘
+  ___________________________________________________________
+ /                                                           \
+|  I think in OSI layers -- when life gets complex,           |
+|  I debug it layer by layer.                                 |
+|                                                             |
+|  A network without security is like a house                 |
+|  without a door -- open to everything.                      |
+|                                                             |
+|  I automate anything I do more than twice.                  |
+|                                                             |
+|  Currently routing my career toward the intersection        |
+|  of Networking + Web + Security.                            |
+ \_____________________________________________________________/
          \   ^__^
           \  (oo)\_______
              (__)\       )\/\
@@ -500,19 +542,19 @@ PID   USER        COMMAND                                      STATUS
 <div align="center">
 
 ```
-  ┌─────────────────────────────────────────────────────────┐
-  │             🌐  LET'S BUILD SOMETHING GREAT              │
-  │                                                         │
-  │  📧  adityaraj3136@gmail.com                            │
-  │  💼  linkedin.com/in/adityaraj3136                      │
-  │  🐙  github.com/Adityaraj3136                           │
-  │  🌍  adityaraj3136.app (ExpenseFlow AI)                 │
-  │  📂  adityaraj3136.github.io/adityatechlab (Portfolio)  │
-  │                                                         │
-  │  ⚡  Response Time : less than 24 hours                 │
-  │  🤝  Open For     : Internships, Jobs, Collab           │
-  │  📍  Location     : India 🇮🇳 (Full-Time) | 🌍 Remote      │
-  └─────────────────────────────────────────────────────────┘
+  +-----------------------------------------------------------+
+  |            LET'S BUILD SOMETHING GREAT                    |
+  |                                                           |
+  |  Email     :  adityaraj3136@gmail.com                     |
+  |  LinkedIn  :  linkedin.com/in/adityaraj3136               |
+  |  GitHub    :  github.com/Adityaraj3136                    |
+  |  Web App   :  adityaraj3136.app (ExpenseFlow AI)          |
+  |  Portfolio :  adityaraj3136.github.io/adityatechlab       |
+  |                                                           |
+  |  Response  :  less than 24 hours                          |
+  |  Open For  :  Internships, Jobs, Collab                   |
+  |  Location  :  India (Full-Time) | Remote Worldwide        |
+  +-----------------------------------------------------------+
 ```
 
 <br/>
