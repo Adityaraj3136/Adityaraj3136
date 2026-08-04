@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Raj&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Network%20Engineer%20%7C%20Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descColor=a0e4ff&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════ TYPEWRITER GREETING ═══════════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=435&lines=Hello%2C+World!+I'm+Aditya+Raj;Network+%26+Security+Explorer;Full-Stack+Web+Developer;AI-Powered+App+Builder;Building+Networks+%26+Automating+the+Future)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=Hello%2C+World!+I'm+Aditya+Raj;Network+%26+Security+Explorer;Full-Stack+Web+Developer;AI-Powered+App+Builder;Building+Networks+%26+Automating+the+Future)](https://git.io/typing-svg)
 
 <br/>
 
