@@ -1,8 +1,4 @@
 
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║          ADITYA RAJ — GitHub Profile README                     ║ -->
-<!-- ║          Paste this into: Adityaraj3136/Adityaraj3136/README.md ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
@@ -10,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aditya%20Raj&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Network%20Engineer%20%7C%20Web%20Developer%20%7C%20Security%20Enthusiast&descAlignY=60&descColor=a0e4ff&animation=fadeIn" width="100%" />
 
 <!-- ═══════════════════ TYPEWRITER GREETING ═══════════════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Hello%2C+World!+%F0%9F%91%8B+I'm+Aditya+Raj;Computer+Network+%26+Security+Explorer+%F0%9F%94%90;Full-Stack+Web+Developer+%F0%9F%8C%90;AI-Powered+App+Builder+%F0%9F%A4%96;AKTU+Notes+Platform+Creator+%F0%9F%93%9A;Building+Networks+%26+Automating+the+Future+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=435&lines=Hello%2C+World!+I'm+Aditya+Raj;Network+%26+Security+Explorer;Full-Stack+Web+Developer;AI-Powered+App+Builder;Building+Networks+%26+Automating+the+Future)](https://git.io/typing-svg)
 
 <br/>
 
@@ -312,17 +308,20 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 **✨ Features:**
 - ⚡ Blazing-fast static site with smooth scroll animations
+- 🎨 Premium dark-mode UI with glassmorphism & gradients
 - 🗂️ Filterable project showcase with category tabs
 - 📊 Live GitHub stats & contribution graph integration
 - 📬 Working contact form with email validation
 - 📱 Fully responsive (mobile-first design)
 - 🔍 SEO optimized with Open Graph meta tags
+- 🌐 Custom domain ready & GitHub Pages deployed
 
 **🛠 Technical Highlights:**
 - Intersection Observer API for scroll-triggered animations
 - CSS custom properties for theme consistency
 - Lazy loading images for performance optimization
 - Accessible markup with ARIA labels
+- Lighthouse score: 95+ Performance
 
 **🛠 Stack:** `HTML5` `CSS3` `Vanilla JS` `GitHub Pages`
 
@@ -338,13 +337,13 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 | 🔧 Project | 📋 Description | 🛠 Stack | 🔗 Live |
 |:----------:|:--------------:|:--------:|:-------:|
-| **[NSM Simulator](https://github.com/adityaraj3136/nsm-simulator)** | Interactive 3D Network Security Monitoring simulator | `JS` `Three.js` | [Demo](https://nsm-simulator.vercel.app/) |
-| **[NetAdmin Pro](https://github.com/adityaraj3136/netadmin-pro)** | Professional network administration dashboard | `JS` `Node.js` | [Demo](https://adityaraj3136.github.io/netadmin-pro/) |
-| **[Electricity Recharge](https://github.com/adityaraj3136/Electricity-Recharge)** | Smart electricity recharge automation | `JS` `HTML` | [Demo](https://adityaraj3136.github.io/Electricity-Recharge/) |
-| **[Chrome ABE Decryptor](https://github.com/adityaraj3136/Chrome-App-Bound-Encryption-Decryption)** | Security research: decrypt browser data | `Python` | [Repo](https://github.com/adityaraj3136/Chrome-App-Bound-Encryption-Decryption) |
-| **[Carbon Footprint Calc](https://github.com/adityaraj3136/Vytoproject2)** | Calculate & visualize carbon footprint | `JS` `Chart.js` | [Demo](https://adityaraj3136.github.io/Vytoproject2/) |
-| **[Mental Wellness Journal](https://github.com/adityaraj3136/vytoflowproject1)** | Mindful journaling web app | `HTML` `CSS` | [Demo](https://adityaraj3136.github.io/vytoflowproject1/) |
-| **[Music Player](https://github.com/adityaraj3136/music-player)** | Browser-based music player | `HTML` `CSS` | [Demo](https://adityaraj3136.github.io/music-player/) |
+| **[NSM Simulator](https://github.com/Adityaraj3136/nsm-simulator)** | Interactive 3D Network Security Monitoring simulator | `JS` `Three.js` | [Demo](https://nsm-simulator.vercel.app/) |
+| **[NetAdmin Pro](https://github.com/Adityaraj3136/netadmin-pro)** | Professional network administration dashboard | `JS` `Node.js` | [Demo](https://Adityaraj3136.github.io/netadmin-pro/) |
+| **[Electricity Recharge](https://github.com/Adityaraj3136/Electricity-Recharge)** | Smart electricity recharge automation | `JS` `HTML` | [Demo](https://Adityaraj3136.github.io/Electricity-Recharge/) |
+| **[Chrome ABE Decryptor](https://github.com/Adityaraj3136/Chrome-App-Bound-Encryption-Decryption)** | Security research: decrypt browser data | `Python` | [Repo](https://github.com/Adityaraj3136/Chrome-App-Bound-Encryption-Decryption) |
+| **[Carbon Footprint Calc](https://github.com/Adityaraj3136/carbon-calculator)** | Calculate & visualize carbon footprint | `JS` `Chart.js` | [Demo](https://Adityaraj3136.github.io/carbon-calculator/) |
+| **[Mental Wellness Journal](https://github.com/Adityaraj3136/MoodLog)** | Mindful journaling web app | `HTML` `CSS` | [Demo](https://Adityaraj3136.github.io/MoodLog/) |
+| **[Music Player](https://github.com/Adityaraj3136/music-player)** | Browser-based music player | `HTML` `CSS` | [Demo](https://Adityaraj3136.github.io/music-player/) |
 
 </div>
 
@@ -352,9 +351,12 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 <!-- ═══════════════════ GITHUB STATS ════════════════════════ -->
 
-## > curl api.github.com/users/Adityaraj3136/stats
+## 📊 &nbsp;`> curl api.github.com/users/Adityaraj3136/stats`
 
 <div align="center">
+
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Adityaraj3136&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaraj3136&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <br/>
 
@@ -364,17 +366,13 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 ---
 
-<!-- ═══════════════════ SNAKE CONTRIBUTION ═══════════════════ -->
+<!-- ═══════════════════ 3D CONTRIBUTION GRAPH ═══════════════════ -->
 
-## > watch --live contribution_snake
+## 🏙️ &nbsp;`> ./generate_3d_city.sh`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityaraj3136/Adityaraj3136/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityaraj3136/Adityaraj3136/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Adityaraj3136/Adityaraj3136/output/github-snake.svg" width="100%" />
-</picture>
+<img alt="3D GitHub Contribution Graph" src="https://raw.githubusercontent.com/Adityaraj3136/Adityaraj3136/main/profile-3d-contrib/profile-night-view.svg" width="100%" />
 
 </div>
 
@@ -421,11 +419,11 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
                               ┌────────▼────────┐
                               │  OPEN SOURCE &  │
                               │  COLLABORATION  │
-                              │   🌍 INTERNET   │
+                              │    INTERNET     │
                               └─────────────────┘
 
   LEGEND:  --- Ethernet    === Fiber    ... Wireless
-  STATUS:  ✅ ACTIVE       🔄 LEARNING  🚧 BUILDING
+  STATUS:  [*] ACTIVE      [~] LEARNING  [!] BUILDING
 ```
 
 ---
