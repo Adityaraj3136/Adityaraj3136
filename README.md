@@ -365,7 +365,7 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 │                  │        │                  │    │                     │
 │ • NSM Simulator  │        │ • PG Sathi v3.0  │    │ • Chrome ABE        │
 │ • NetAdmin Pro   │        │   (11,600+ LOC   │    │   Encryption        │
-│ • Packet Analy.  │        │    SaaS Platform) │    │ • Firewall / IDS    │
+│ • Packet Analy.  │        │    SaaS Platform)│    │ • Firewall / IDS    │
 │ • Firewall Mgmt  │        │ • ExpenseFlow AI │    │ • Pentesting        │
 │ • TCP/IP Stack   │        │ • NotesHub       │    │ • SSL/TLS Research  │
 │ • Routing/VLSM   │        │ • AdiTechLab     │    │ • NSM / SIEM        │
@@ -422,7 +422,7 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
   |  GitHub    :  github.com/Adityaraj3136                    |
   |  Portfolio :  adityaraj3136.github.io/adityatechlab       |
   |                                                           |
-  |  Response  :  less than 24 hours                          |
+  |  Response  :  less than 72 hours                          |
   |  Open For  :  Internships, Jobs, Collab                   |
   |  Location  :  India (Full-Time) | Remote Worldwide        |
   +-----------------------------------------------------------+
