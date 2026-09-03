@@ -25,22 +25,22 @@
 ║                         R  A  J                                      ║
 ║                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  ┌─ SYSTEM BOOT LOG ──────────────────────────────────────────────┐ ║
-║  │                                                                │ ║
-║  │  [>>>>>>>>>>] CPU .......... Networking Brain v2.0      [OK]   │ ║
-║  │  [>>>>>>>>>>] RAM .......... 10+ Projects Loaded        [OK]   │ ║
+║  ┌─ SYSTEM BOOT LOG ──────────────────────────────────────────────┐  ║
+║  │                                                                 │ ║
+║  │  [>>>>>>>>>>] CPU .......... Human Brain v2.0            [OK]   │ ║
+║  │  [>>>>>>>>>>] RAM .......... 10+ Projects Loaded         [OK]   │ ║
 ║  │  [>>>>>>>>>>] NET .......... TCP/IP Stack Active         [OK]   │ ║
 ║  │  [>>>>>>>>>>] WEB .......... Full-Stack Engine Ready     [OK]   │ ║
 ║  │  [>>>>>>>>>>] SEC .......... Firewall & IDS Online       [OK]   │ ║
 ║  │  [>>>>>>>>>>] AI  .......... Gemini Co-Processor         [OK]   │ ║
 ║  │  [>>>>>>>>>>] GPU .......... UI/UX Renderer Active       [OK]   │ ║
 ║  │  [>>>>>>>>>>] SSD .......... Supabase + PostgreSQL       [OK]   │ ║
-║  │                                                                │ ║
-║  │  > ROLE     : Network Engineer | Full-Stack Developer          │ ║
-║  │  > LOCATION : India (Full-Time) | Remote Worldwide             │ ║
-║  │  > STATUS   : Open to Opportunities                            │ ║
-║  │                                                                │ ║
-║  └────────────────────────────────────────────────────────────────┘ ║
+║  │                                                                 │ ║
+║  │  > ROLE     : Network Engineer(L1) | Full-Stack Developer       │ ║
+║  │  > LOCATION : India (Full-Time) | Remote Worldwide              │ ║
+║  │  > STATUS   : Open to Opportunities                             │ ║
+║  │                                                                 │ ║
+║  └────────────────────────────────────────────────────────────────┘  ║
 ║                                                                      ║
 ║  All systems operational. Welcome, recruiter.                        ║
 ╚══════════════════════════════════════════════════════════════════════╝
