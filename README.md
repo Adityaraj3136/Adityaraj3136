@@ -13,7 +13,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  BIOS v3.1.36 -- AdityaRaj Systems Inc.         [OK] All Tests Pass ║
+║  BIOS v3.1.36 -- AdityaRaj Systems Inc.         [OK] All Tests Pass  ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
 ║      █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗                     ║
@@ -75,7 +75,7 @@ Domain      : Computer Networks - Full-Stack - AI - Security
 Status      : Open to Opportunities
 Remote      : Available Worldwide
 Education   : B.Tech CSE -- AKTU
-Focus       : Building SaaS Products & Network Infrastructure
+Focus       : Exploring Future proof skill, Network Infrastructure
 
 Mission     : Bridging network infrastructure with modern web tech & AI
 Built       : 4 production SaaS apps (11,600+ LOC flagship)
