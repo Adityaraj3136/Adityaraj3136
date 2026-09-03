@@ -87,36 +87,6 @@ Learning    : CCNA - Cloud (AWS) - DevOps - React Advanced
 
 ---
 
-<!-- ═══════════════════ NETWORK TERMINAL ANIMATION ═══════════════ -->
-
-## 🌐 &nbsp;`> ping adityaraj.dev --verbose`
-
-```
-+======================================================================+
-|  NETWORK DIAGNOSTIC REPORT — adityaraj.dev                           |
-+======================================================================+
-|                                                                      |
-|  $ traceroute to Aditya Raj's brain (128.0.0.1)                      |
-|                                                                      |
-|  HOP   HOST                        TIME     STATUS                   |
-|  ---   ----                        ----     ------                   |
-|   1    curiosity.local             1ms      PASS                     |
-|   2    networking.protocols        2ms      PASS                     |
-|   3    webdev.fullstack            3ms      PASS                     |
-|   4    security.research           4ms      PASS                     |
-|   5    ai.automation               5ms      PASS                     |
-|   6    github.Adityaraj3136        6ms      DESTINATION REACHED      |
-|                                                                      |
-+----------------------------------------------------------------------+
-|  Round Trip Time  :  6ms          Jitter  :  0ms                     |
-|  Packets Sent     :  6           Packets Lost  :  0 (0% loss)        |
-|  Connection       :  STABLE      Protocol      :  TCP/IP v4          |
-|  Status           :  ALL SYSTEMS OPERATIONAL                         |
-+======================================================================+
-```
-
----
-
 <!-- ═══════════════════ SKILLS & TECH STACK ════════════════════ -->
 
 ## 🛠️ &nbsp;`> ls -la tech_stack/`
