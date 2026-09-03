@@ -336,17 +336,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 
 ---
 
-<!-- ═══════════════════ ACTIVITY GRAPH ══════════════════════ -->
-
-## 📈 &nbsp;`> git log --graph --all --decorate`
-
-<div align="center">
-
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityaraj3136&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=203a43&hide_border=false&border_color=00d4ff&custom_title=Aditya%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 <!-- ═══════════════════ NETWORK DIAGRAM — ASCII ══════════════ -->
 
