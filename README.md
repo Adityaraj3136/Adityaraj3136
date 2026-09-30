@@ -285,10 +285,6 @@ Personal **developer portfolio** showcasing all projects, skills, and experience
 | **[NSM Simulator](https://github.com/Adityaraj3136/nsm-simulator)** | Interactive 3D Network Security Monitoring simulator | `JS` `Three.js` | [Demo](https://nsm-simulator.vercel.app/) |
 | **[NetAdmin Pro](https://github.com/Adityaraj3136/netadmin-pro)** | Professional network administration dashboard | `JS` `Node.js` | [Demo](https://Adityaraj3136.github.io/netadmin-pro/) |
 | **[Electricity Recharge](https://github.com/Adityaraj3136/Electricity-Recharge)** | Smart electricity recharge automation | `JS` `HTML` | [Demo](https://Adityaraj3136.github.io/Electricity-Recharge/) |
-| **[Chrome ABE Decryptor](https://github.com/Adityaraj3136/Chrome-App-Bound-Encryption-Decryption)** | Security research: decrypt browser data | `Python` | [Repo](https://github.com/Adityaraj3136/Chrome-App-Bound-Encryption-Decryption) |
-| **[Carbon Footprint Calc](https://github.com/Adityaraj3136/carbon-calculator)** | Calculate & visualize carbon footprint | `JS` `Chart.js` | [Demo](https://Adityaraj3136.github.io/carbon-calculator/) |
-| **[Mental Wellness Journal](https://github.com/Adityaraj3136/MoodLog)** | Mindful journaling web app | `HTML` `CSS` | [Demo](https://Adityaraj3136.github.io/MoodLog/) |
-| **[Music Player](https://github.com/Adityaraj3136/music-player)** | Browser-based music player | `HTML` `CSS` | [Demo](https://Adityaraj3136.github.io/music-player/) |
 
 </div>
 
