@@ -104,22 +104,11 @@ Learning    : CCNA - Cloud (AWS) - DevOps - React Advanced
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🟣 AI, Backend & Services
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![KaTeX](https://img.shields.io/badge/KaTeX-Math-008080?style=for-the-badge&logo=latex&logoColor=white)
+
 
 ### 🔴 Security & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -147,7 +136,7 @@ Learning    : CCNA - Cloud (AWS) - DevOps - React Advanced
 |  ----------------------------------------------------------------    |
 |  TCP/IP Stack      [==================--]   Comfortable              |
 |  Wireshark         [=================---]   Comfortable              |
-|  Subnetting/VLSM   [================----]   Intermediate             |
+|  Subnetting        [================----]   Intermediate             |
 |  Routing (OSPF)    [===============-----]   Intermediate             |
 |  Firewall / IDS    [==============------]   Familiar                 |
 |  Network Security  [==============------]   Familiar                 |
@@ -159,20 +148,13 @@ Learning    : CCNA - Cloud (AWS) - DevOps - React Advanced
 |  JavaScript (ES6)  [==================--]   Comfortable              |
 |  Node.js           [================----]   Intermediate             |
 |  Web Automation    [================----]   Intermediate             |
-|  REST APIs         [===============-----]   Intermediate             |
 |  React / Three.js  [============--------]   Exploring                |
 |                                                                      |
 |  FULL-STACK, AI & BACKEND                                            |
 |  ----------------------------------------------------------------    |
-|  Supabase (BaaS)   [==================--]   Comfortable              |
-|  Next.js 16        [================----]   Intermediate             |
+|  Supabase (BaaS)   [==================--]   Comfortable              |            
 |  Google Gemini AI  [================----]   Intermediate             |
-|  PWA Development   [================----]   Intermediate             |
-|  Prisma ORM        [===============-----]   Intermediate             |
-|  PostgreSQL        [===============-----]   Familiar                 |
-|  Razorpay / UPI    [===============-----]   Familiar                 |
-|  Leaflet.js Maps   [===============-----]   Familiar                 |
-|  Framer Motion     [====================]   Exploring                |
+|  PWA Development   [================----]   Intermediate             |               
 |                                                                      |
 +======================================================================+
 ```
